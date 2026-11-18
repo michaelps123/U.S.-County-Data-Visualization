@@ -1,8 +1,6 @@
-# U.S.-County-Data-Visualization
+# U.S. County Income, Poverty, and Commuting Patterns (2015)
 **[Explore the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/michael.schneider4297/viz/U_S_CountyIncomePovertyandCommutingPatterns-2015/IncomevsPoverty)**
 
-
-### U.S. County Income, Poverty, and Commuting Patterns (2015)
 
 **Tools:** Tableau | Data Visualization | Geographic Analysis
 
